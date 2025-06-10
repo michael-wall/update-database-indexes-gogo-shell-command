@@ -1,0 +1,3 @@
+Bundle-Name: update-database-indexes
+Bundle-SymbolicName: update.database.indexes
+Bundle-Version: 1.0.0
