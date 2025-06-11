@@ -7,6 +7,7 @@
 
 **Usage**
 - Build and deploy the custom module or add it to a Liferay Cloud workspace, trigger a Liferay PaaS build and deploy the Liferay PaaS build.
+- Blacklist Component 'com.liferay.portal.security.audit.router.internal.DefaultAuditRouter'
 - Confirm the module deployed as expected e.g.
 ```
 2025-06-10 14:14:20.580 INFO  [fileinstall-directory-watcher][UpdateDatabaseIndexes:26] activated...
